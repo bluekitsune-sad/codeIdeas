@@ -109,3 +109,5 @@ AI That Turns Your Dream Descriptions into Art
 Time-Lapse of Your Day Using Your Webcam
 
 Personalized AI Therapist Bot
+
+Voice-Controlled Smart Mirror
