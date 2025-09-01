@@ -124,3 +124,6 @@ Interactive AI Comic Book
 
 Real-Time Mood-Tracking Playlist Generator
 
+AI-Powered Book Summarizer
+
+Augmented Reality (AR) Furniture Preview
