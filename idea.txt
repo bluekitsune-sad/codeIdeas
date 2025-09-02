@@ -1,5 +1,7 @@
 make a mobile app that will sort all the images in the phone in seperate folder and provides search options.
 
+make trello clone with images and video support and ai
+
 suing FFmpeg make a image and video editor
 
 play snake with your voice
