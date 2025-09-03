@@ -1,5 +1,9 @@
 make a game in brainFuck langauage 
 
+makea a fighting game 
+
+makea a badminton game 
+
 make a ai to play tetris
 
 make a ai to play chess
