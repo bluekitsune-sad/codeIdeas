@@ -1,3 +1,5 @@
+make a game in brainFuck langauage 
+
 make a ai to play tetris
 
 make a ai to play chess
