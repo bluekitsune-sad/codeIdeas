@@ -1,5 +1,9 @@
 food recommendation based on the ingredients you have imputed. 
 
+fluid simulator
+
+flood fill algorithm search
+
 make ai play snake (a*)
 
 hotel management System
