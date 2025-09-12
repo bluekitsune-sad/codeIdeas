@@ -1,3 +1,5 @@
+[information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
+
 food recommendation based on the ingredients you have imputed. 
 
 fluid simulator
