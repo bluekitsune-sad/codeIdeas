@@ -10,8 +10,6 @@ fluid simulator
 
 flood fill algorithm search
 
-make ai play snake (a*)
-
 hotel management System
 
 make a portfolio cargame with lowres(pico8)
