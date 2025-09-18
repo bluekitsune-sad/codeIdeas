@@ -1,5 +1,7 @@
 [information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
 
+github documentation generator
+
 create a chrome extention
 
 code a youtube mp3 to text then summarize using ai
