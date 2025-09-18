@@ -8,8 +8,6 @@ food recommendation based on the ingredients you have imputed.
 
 fluid simulator
 
-flood fill algorithm search
-
 hotel management System
 
 make a portfolio cargame with lowres(pico8)
