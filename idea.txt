@@ -1,5 +1,7 @@
 [information for class preparation](https://www.youtube.com/watch?v=3-MSlNVqzYY)
 
+autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
+
 github documentation generator
 
 create a chrome extention
