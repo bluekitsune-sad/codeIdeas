@@ -2,6 +2,8 @@
 
 autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
 
+desktop pet
+
 github documentation generator
 
 create a chrome extention
