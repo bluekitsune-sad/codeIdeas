@@ -2,7 +2,7 @@
 
 autenticatino app with (email,password,fingerprint,secretQuestion,emailToken,pin,typing speed test,geolocatino,play snake with a seacrit room hidden)
 
-desktop pet
+desktop pet (https://medium.com/analytics-vidhya/create-your-own-desktop-pet-with-python-5b369be18868)
 
 github documentation generator
 
