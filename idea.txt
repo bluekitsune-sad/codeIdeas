@@ -8,6 +8,8 @@ github documentation generator
 
 create a chrome extention
 
+Piñata Go Boom (this is the game name)
+
 code a youtube mp3 to text then summarize using ai
 
 food recommendation based on the ingredients you have imputed. 
