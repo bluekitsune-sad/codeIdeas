@@ -1,8 +1,11 @@
 from PIL import Image
 
-def image_to_characters(image_path, white_char='c', black_char='b', output_file='output.txt'):
+def image_to_characters(image_path, white_char='c', black_char='b', output_file='output.txt', new_size=(64, 64)):
     # Open the image
     img = Image.open(image_path)
+    
+    # Resize the image to 256x256
+    img = img.resize(new_size)
     
     # Convert image to grayscale
     grayscale_img = img.convert("L")
@@ -10,7 +13,7 @@ def image_to_characters(image_path, white_char='c', black_char='b', output_file=
     # Get the pixel data
     pixels = grayscale_img.load()
     
-    # Get the dimensions of the image
+    # Get the dimensions of the image (should be 256x256)
     width, height = grayscale_img.size
     
     # Loop through each pixel and convert it to a character
