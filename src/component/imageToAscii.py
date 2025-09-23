@@ -1,5 +1,3 @@
-# image_to_ascii.py
-
 from PIL import Image
 
 class ImageToAscii:
