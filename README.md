@@ -14,7 +14,11 @@ output_image.txt: The output file where the ASCII art is saved (this file is gen
 ## How to run
 
 pip install pillow
+
 py main.py
+
+
+
 <!-- 
     git checkout -b <new-branch-name>
     git add .
