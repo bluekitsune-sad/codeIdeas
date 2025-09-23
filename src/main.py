@@ -1,6 +1,6 @@
 from PIL import Image
 
-def image_to_characters(image_path, white_char='c', black_char='b'):
+def image_to_characters(image_path, white_char='c', black_char='b', output_file='output.txt'):
     # Open the image
     img = Image.open(image_path)
     
@@ -27,9 +27,16 @@ def image_to_characters(image_path, white_char='c', black_char='b'):
                 row.append(black_char)  # Black
         result.append(''.join(row))
     
-    # Print the resulting character art
-    return '\n'.join(result)
+    # Join all rows into one string
+    ascii_art = '\n'.join(result)
+    
+    # Save the ASCII art into a text file
+    with open(output_file, 'w') as f:
+        f.write(ascii_art)
+    
+    print(f"ASCII art saved to {output_file}")
 
+# Example usage:
 image_path = 'C:/Users/HuTa0710/Desktop/dontknowbutcute.jpeg'  # Replace with the path to your image
-ascii_art = image_to_characters(image_path)
-print(ascii_art)
+output_file = 'output_image.txt'  # The file where the ASCII art will be saved
+image_to_characters(image_path, output_file=output_file)
